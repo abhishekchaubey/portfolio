@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <defs>
+    <style>
+      .text { font-family: 'Poppins', 'Montserrat', 'Segoe UI', Arial, sans-serif; fill: #0B3B5A; font-weight: 700; }
+      .sub { font-family: 'Poppins', 'Montserrat', 'Segoe UI', Arial, sans-serif; fill: #0B3B5A; font-weight: 500; }
+    </style>
+  </defs>
+
+  <!-- Transparent background (none) -->
+
+  <!-- Icon group -->
+  <g transform="translate(80,60)">
+    <!-- Gold arrow -->
+    <path d="M140,20 L220,100 L180,100 L180,240 L100,240 L100,100 L60,100 Z" fill="#C89B3C" />
+    <!-- Circuit base lines (deep blue) -->
+    <path d="M60,260 L60,220 L100,180" stroke="#0B3B5A" stroke-width="12" fill="none" stroke-linecap="round" />
+    <path d="M100,260 L100,220 L140,200" stroke="#0B3B5A" stroke-width="12" fill="none" stroke-linecap="round" />
+    <path d="M140,260 L140,220 L180,200" stroke="#0B3B5A" stroke-width="12" fill="none" stroke-linecap="round" />
+    <!-- Circuit nodes -->
+    <circle cx="60" cy="260" r="12" fill="#0B3B5A" />
+    <circle cx="100" cy="260" r="12" fill="#0B3B5A" />
+    <circle cx="140" cy="260" r="12" fill="#0B3B5A" />
+    <circle cx="100" cy="180" r="12" fill="#0B3B5A" />
+    <circle cx="140" cy="200" r="12" fill="#0B3B5A" />
+    <circle cx="180" cy="200" r="12" fill="#0B3B5A" />
+  </g>
+
+  <!-- Name -->
+  <text x="380" y="190" class="text" font-size="72" letter-spacing="2">ABHISHEK CHAUBEY</text>
+  <!-- Tagline -->
+  <text x="380" y="255" class="sub" font-size="28" letter-spacing="1">Consultant • Trust • Efficiency • Efficacy</text>
+</svg>
